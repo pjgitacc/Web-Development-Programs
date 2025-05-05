@@ -3,14 +3,14 @@
 <students>
     <student>
         <id>01</id>
-        <name>Samarth Patane</name>
+        <name>Parth Jadhav</name>
         <position>Developer</position>
         <department>Engineering</department>
-        <salary>60000</salary>
+        <salary>50000</salary>
     </student>
     <student>
         <id>02</id>
-        <name>Sanket Narute</name>
+        <name>Harsh Patil</name>
         <position>Designer</position>
         <department>Creative</department>
         <salary>55000</salary>
